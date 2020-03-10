@@ -3,7 +3,9 @@ package bridge;
 
 
 public class Circle extends Shape {
-	   private int x, y, radius; diameter;
+	   public int x, y, radius; diameter;
+	
+	
 	
 
 	   public Circle(int x, int y, int radius, DrawAPI drawAPI) {
