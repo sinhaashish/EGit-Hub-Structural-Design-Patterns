@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Employee {
-   private String name1;
+   private String name2;
    private String dept;
    private int salary;
    private List<Employee> subordinates;
